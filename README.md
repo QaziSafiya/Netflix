@@ -1,4 +1,5 @@
 ## Netflix clone
 
-#create react-app
-#configure the tailwind-css
+# create react-app
+
+# configure the tailwind-css
